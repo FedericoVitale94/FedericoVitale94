@@ -1,8 +1,8 @@
 # Federico Vitale
 
-Full-stack software developer based in Vienna, Austria. Since 2019 I have worked at Namirial on eSignAnyWhere, an eIDAS-compliant electronic signature platform, with C#/.NET, TypeScript, React and Angular.
+Full-stack software developer based in Vienna, Austria. Since 2019 I have worked at Namirial on its electronic signature platforms, eSignAnyWhere and Namirial Sign Enterprise, with C#/.NET, TypeScript, React and Angular. I was the technical lead for accessibility, working toward compliance with the European Accessibility Act and EN 301 549.
 
-I hold an MSc in Computer Science from the University of Salerno (110/110 cum laude). I am interested in Human-Computer Interaction, applied AI and research on cyberbullying, and I am moving toward project management and research roles.
+I hold an MSc in Computer Science from the University of Salerno (110/110 cum laude). I am interested in Human-Computer Interaction, accessibility, applied AI and research on cyberbullying, and I am moving toward project management and research roles.
 
 ## Selected work
 
