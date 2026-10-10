@@ -17,4 +17,4 @@ C#, .NET, TypeScript, React, Angular, React Native, Ionic, Firebase, Python, SQL
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/federico-vitale-169489168) | federico.vitale94@gmail.com
+[LinkedIn](https://www.linkedin.com/in/federicovitale94) | federico.vitale94@gmail.com
